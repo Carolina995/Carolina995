@@ -1,4 +1,4 @@
-### Hi! I am CaroLina Gomes Landim 👋
+### Hi! I am Carolina Gomes Landim 👋
 
 <!--
 **Carolina995/Carolina995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
