@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her ela/dela
 
 
+<div align="center">
+  <a href="https://github.com/Carolina995">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolina995&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina995&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
